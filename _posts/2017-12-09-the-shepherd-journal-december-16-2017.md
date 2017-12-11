@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2017-12-09 17:53:49
 ---
-&nbsp;
-
 [aesop_collection collection="101" columns="1" splash="off" order="default" loadmore="off" revealfx="off"]
 
 <hr />
