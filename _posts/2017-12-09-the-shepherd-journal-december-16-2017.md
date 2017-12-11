@@ -9,9 +9,12 @@ permalink: >
 published: true
 post_date: 2017-12-09 17:53:49
 ---
-[wpuf_form id="824"]
+&nbsp;
+
+[aesop_collection collection="101" columns="1" splash="off" order="default" loadmore="off" revealfx="off"]
 
 <hr />
 
-[aesop_collection collection="101" columns="1" splash="off" order="default" loadmore="off" revealfx="off"]
-<p id="ui-id-4"></p>
+Use the form below to share news, event information, announcements, and tips.
+
+[wpuf_form id="824"]
