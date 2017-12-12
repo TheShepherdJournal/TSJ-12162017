@@ -9,10 +9,4 @@ permalink: >
 published: true
 post_date: 2017-12-09 17:53:49
 ---
-[aesop_collection collection="101" columns="1" splash="off" order="default" loadmore="off" revealfx="off"]
-
-<hr />
-
-Use the form below to share news, event information, announcements, and tips.
-
-[wpuf_form id="824"]
+[rtbs name="835"]
