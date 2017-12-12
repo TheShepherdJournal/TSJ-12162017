@@ -9,4 +9,6 @@ permalink: >
 published: true
 post_date: 2017-12-09 17:53:49
 ---
+<img class="alignnone size-medium wp-image-712" src="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/11/IMG_3304-e1512093402454-300x225.jpg" alt="" width="300" height="225" />
+
 [rtbs name="835"]
