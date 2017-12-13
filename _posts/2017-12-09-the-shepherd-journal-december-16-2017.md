@@ -9,6 +9,10 @@ permalink: >
 published: true
 post_date: 2017-12-09 17:53:49
 ---
-<img class="alignnone size-medium wp-image-712" src="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/11/IMG_3304-e1512093402454-300x225.jpg" alt="" width="300" height="225" />
+&nbsp;
+
+[aesop_chapter title="The Shepherd Journal" subtitle="December 16, 2017" bgtype="img" full="on" img="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/12/24862187_10154975062722665_504136913304934225_n.jpg" video_autoplay="on" bgcolor="#888888" revealfx="off" overlay_revealfx="off"]
+
+&nbsp;
 
 [rtbs name="835"]
