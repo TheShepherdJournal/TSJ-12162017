@@ -13,8 +13,6 @@ permalink: >
 published: true
 post_date: 2017-12-15 23:33:33
 ---
-&nbsp;
-
 A <a href="http://www.themorningsun.com/general-news/20171214/shepherd-chief-has-tips-after-nearly-being-hit-on-road"><i>Morning Sun</i> article published on 12/14</a> told Chief Sawyer’s story about a near run-in with a car out of control and helped pass along some driving tips.
 
 In the article, Sawyer passed along tips to drivers about driving at safe speed when roads are slick from snow or ice. From the article:
